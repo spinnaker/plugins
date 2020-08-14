@@ -1,5 +1,7 @@
 # plugins
 
+**EXPERIMENTAL**: This repository is experimental! For more information on how to use it or integrate with it, see us in the #plugins clannel in Slack.
+
 A central repository for [Spinnaker](https://spinnaker.io) plugins.
 
 # Usage
