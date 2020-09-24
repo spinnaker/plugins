@@ -66,6 +66,8 @@ This file will look something like this:
 ### Requirements
 
 - All plugins must have an `id` and `description`.
+- A plugin ID must follow the format `{namespace}.{id}`
+  - `{namespace}` should be the owner (e.g. `netflix`, `armory`, `aws`, `google`, etc. or your individual github username)
 - All plugin releases must use an unauthenticated, secure (HTTPS) artifact URL.
 - All plugin releases must includ a valid `sha512sum` value.
 
@@ -80,7 +82,7 @@ Follow the same steps for submitting a new plugin, but only update your plugin's
 
 ## Deprecating an old plugin version
 
-We do not currently allow for old plugin versions to be removed from this repository while we evaluate how to ensure existing users are not 
+We do not currently allow for old plugin versions to be removed from this repository while we evaluate how to ensure existing users of a plugin version are not left with an misconfigured Spinnaker deployment.
 
 # FAQs
 
