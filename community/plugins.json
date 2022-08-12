@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "git-account-source-plugin",
+    "url": "https://github.com/OpsMx/git-account-source-plugin/blob/main/sample/plugins.json"
+  },
+  {
+    "id": "gcs-account-source-plugin",
+    "url": "https://github.com/OpsMx/gcs-account-source-plugin/blob/main/plugins.json"
+  }
+]
