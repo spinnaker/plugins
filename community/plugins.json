@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "OpsMx.GitAccountRegistration",
+    "description": "Git Account Registration Plugin",
+    "provider": "https://www.opsmx.com",
+    "releases": [
+      {
+        "version": "0.0.2",
+        "date": "2022-08-30T12:51:12.992501Z",
+        "requires": "clouddriver>=5.77.0",
+        "sha512sum": "6430f49c025703e401a1f2de3f725c04d2c6a81486be709c0b873053a080673fc366f1ac6804b6e2d49e6de5a334b3b4bafdcf408f2ad3a4eb6e6967b9b72f8d",
+        "preferred": false,
+        "url": "https://github.com/OpsMx/git-account-source-plugin/releases/download/0.0.2/git-account-registration-plugin.zip"
+      }
+    ]
+  }
+]
