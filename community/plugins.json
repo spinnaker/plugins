@@ -23,7 +23,7 @@
         "version": "0.0.2",
         "date": "2022-09-01T12:07:25.786523Z",
         "requires": "clouddriver>=5.77.0",
-        "sha512sum": "e21c7642f9c3d5f50e05faf33de08934639f964a291e627d022c7cf482c91172fc5d7415092689c7c5629fc79b154a6334d0630dd94b6c1ae88ab5ce02f58760",
+        "sha512sum": "02ea6c01210af92eb9d9bd70727605706c14b02533c89c2178e9b298574f517d978f7b0b216c9f525c49c1859a638af091f93719522c575198b18c68532ad14b",
         "preferred": false,
         "url": "https://github.com/OpsMx/gcs-account-source-plugin/releases/download/0.0.2/gcs-account-source-plugin.zip"
       }
